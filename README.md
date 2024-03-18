@@ -2,7 +2,7 @@
 
 1. download script
 ```
-git clone https://github.com/fx505/geosite-updater.git ~
+git clone https://github.com/fx505/geosite-updater.git ~/geosite-updater
 ```
 2. chmod
 ```
