@@ -6,7 +6,7 @@ git clone https://github.com/fx505/geosite-updater.git ~
 ```
 2. chmod
 ```
-cd geosite-updater && chmod +x main.py
+cd ~/geosite-updater && chmod +x main.py
 ```
 3. add to crontab
 ```
